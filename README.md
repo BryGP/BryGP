@@ -29,7 +29,7 @@
 
 - **Languages**:
 
-    ![C#](https://img.shields.io/badge/C%23-p?style=for-the-badge&logoColor=white&color=blue)
+    ![C#](https://img.shields.io/badge/C%23-1?style=for-the-badge&logo=C%23&logoColor=white&labelColor=1f91e7&color=%231f91e7)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-1?style=for-the-badge&logoColor=white&color=%23FA6607)
