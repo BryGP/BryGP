@@ -12,11 +12,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- I caught my attention machine learning
-- Principiant in cibersecurity
-- I like the artificial inteligence
-
+- 
+- 
+- 
 <br>
 
 <br>
