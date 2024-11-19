@@ -16,7 +16,7 @@
 
 ### 💼 Professional Experience
 
-- **Full-Stack Developer (Intern)** - TechInnovate Solutions (June 2023 - Present)
+- **Full-Stack Developer (Intern)** - For Me
   - Developed web applications using React and Node.js
   - Implemented RESTful APIs and SQL databases
   - Collaborated in an Agile team environment
