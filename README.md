@@ -33,7 +33,7 @@
 ![FloodNet Project](/placeholder.svg?height=150&width=300)
 - Neural network model for flood segmentation in satellite imagery
 - Technologies: Python, TensorFlow, Keras
-- [View Repository](https://github.com/BryGP/FloodNet)
+- [View Repository](https://github.com/BryGP/Data-Science.git)
 
 #### Mexicana - Airline (WebApp)
 ![Mexicana](/placeholder.svg?height=150&width=300)
