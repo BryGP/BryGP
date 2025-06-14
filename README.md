@@ -33,13 +33,11 @@
 ### Featured Projects
 
 #### Collector Corner (WebApp)
-![Collector Corner](/placeholder.svg?height=150&width=300)
 - Web app to manage collectible items with Firebase backend.
 - Technologies: JavaScript, Bootstrap, Firebase
 - [View Repository](https://github.com/BryGP/CollectorCorner.git)
 
 #### FloodNet: Flood Detection System
-![FloodNet Project](/placeholder.svg?height=150&width=300)
 - Neural network model for flood segmentation in satellite imagery
 - Technologies: Python, TensorFlow, Keras
 - [View Repository](https://github.com/BryGP/Data-Science.git)
@@ -54,17 +52,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryGP&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🌱 Currently Learning
+### Currently Learning
 
-- Advanced Deep Learning and Neural Networks
-- Cloud Technologies (AWS, Azure)
-- DevOps and CI/CD Practices
-- Advanced learning in Web Development
+- Cloud computing (GCP, AWS, Azure)
+- Deep learning & CNN architectures
+- DevOps tools and CI/CD pipelines
+- Advanced web development (Next.js, Tailwind, TypeScript)
 
 ### Contact
 
-Interested in collaborating on a project or have an opportunity? Don't hesitate to reach out!
-
+I'm always open to collaboration, internship opportunities, and tech conversations!
 - LinkedIn: [bryansgp](https://linkedin.com/in/bryansgp)
 - Email: Brayan186930@outlook.com
 - GitHub: [@BryGP](https://github.com/BryGP)
