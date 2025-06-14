@@ -1,6 +1,6 @@
 # Bryan Alejandro GP
 
-## Computer Systems Engineer | Full-Stack Developer | Data Science Enthusiast
+## Computer Systems Engineer | Data Science Enthusiast
 
 <p align="center">
   <a href="https://linkedin.com/in/bryansgp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -10,24 +10,33 @@
 
 ---
 
-### 📚 Education
+### Education
 
-- **B.S. in Computer Systems Engineering** - (ITQ) National Technological Institute of Mexico, Querétaro Campus (2020 - Present)
+- **B.S. in Computer Systems Engineering** -
+(ITQ) National Technological Institute of Mexico, Querétaro Campus
+(2021 - Present)
 
-### 💼 Professional Experience
+### Professional Experience
 
-- **Full-Stack Developer (Intern)** - For Me
-  - Developed web applications using React and Node.js
-  - Implemented RESTful APIs and SQL databases
-  - Collaborated in an Agile team environment
+- **Full-Stack Developer (Intern)** - Personal projects.
+  - Built responsive web applications using React and Node.js
+  - Designed and consumed RESTful APIs and structured SQL databases
+  - Practiced Agile methodologies and version control with Git
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-- **Programming Languages:** Python, JavaScript, C#, C++, Java
-- **Frameworks & Libraries:** React, Node.js, Django, TensorFlow, Keras, Laragon
-- **Development Tools:** Git, GitHub, VS Code, Linux, HeidySQL, SQLPlus
+- **Programming Languages:** Python, JavaScript, Java, C++, C#, PHP
+- **Frameworks & Libraries:** React, Node.js, TensorFlow, Keras, Bootstrap
+- **Development Tools:** Git/GitHub, VS Code, Linux, SQLPlus, Docker
+- **Others:** Firebase, Laragon, Figma
 
-### 🚀 Featured Projects
+### Featured Projects
+
+#### Collector Corner (WebApp)
+![Collector Corner](/placeholder.svg?height=150&width=300)
+- Web app to manage collectible items with Firebase backend.
+- Technologies: JavaScript, Bootstrap, Firebase
+- [View Repository](https://github.com/BryGP/CollectorCorner.git)
 
 #### FloodNet: Flood Detection System
 ![FloodNet Project](/placeholder.svg?height=150&width=300)
@@ -35,13 +44,7 @@
 - Technologies: Python, TensorFlow, Keras
 - [View Repository](https://github.com/BryGP/Data-Science.git)
 
-#### Mexicana - Airline (WebApp)
-![Mexicana](/placeholder.svg?height=150&width=300)
-- Implementation of the improvement of the government website "MEXICANA.GOB", for the purpose of use for practices.
-- Technologies: Node.js, React, Laragon, HeidySQL
-- [View Repository](https://github.com/BryGP/Mexican-Airline)
-
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BryGP&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -58,7 +61,7 @@
 - DevOps and CI/CD Practices
 - Advanced learning in Web Development
 
-### 📫 Contact
+### Contact
 
 Interested in collaborating on a project or have an opportunity? Don't hesitate to reach out!
 
